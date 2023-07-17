@@ -1,0 +1,17 @@
+{
+  "boilerplate": {
+    "prefix": "boilerplate",
+    "body": [
+      "#include <iostream>",
+      "#include <string>",
+      "#include <vector>",
+      "",
+      "using namespace std;",
+      "",
+      "int main() {",
+      "\t$1",
+      "\treturn 0;",
+      "}"
+    ]
+  },
+}
